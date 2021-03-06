@@ -1,5 +1,6 @@
 .container{
 	border: 5px solid green;
+	background-color: white;
 }
 
 .header{
@@ -12,6 +13,9 @@
 
 .article{
 	border: 5px solid blue;
+	background-color:  #E8FBFB;
+	margin-top: 10px;
+	padding: 5px;
 }
 
 
@@ -22,4 +26,9 @@
 
 h2 {
 	display:inline;
+}
+
+body{
+	margin: 10%;
+	background-image: url(images/background.jpg);
 }
